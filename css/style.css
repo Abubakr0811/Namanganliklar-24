@@ -99,6 +99,37 @@
 }
 
 .kirish-button{
+    color: #fff;
     font-family: "Rubik";
     margin: 13px 20px 13px 20px;
+}
+
+.sitenav-list{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+
+}
+
+.sitenav-link{
+    font-family: "rubik";
+    margin-right: 34px;
+    font-size: 16px;
+    color: #7f7f7f
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #222;
+}
+
+.main-hr{
+    margin-left: 30px;
+    width: 1200px;
+    height: 0;
+}
+
+.optimize-png{
+    margin-top: 40px;
+    width: 1200px;
+    height: 128px;
 }
