@@ -2,7 +2,7 @@
 
 .container{
     width: 100%;
-    max-width: 1140px;
+    max-width: 1389px;
     padding-left: 20px;
     padding-right: 20px;
     margin-left: auto;
@@ -132,4 +132,97 @@
     margin-top: 40px;
     width: 1200px;
     height: 128px;
+}
+
+.kadrlar{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.kadr-1{
+    width: 393px;
+    margin-top: 50px;
+    border-radius: 15px;
+    background-color: #f6f6f6;
+}
+
+.main-title{
+    width: 358px;
+    height: 78px;
+    padding-top: 20px;
+    padding-right: 18px;
+    padding-bottom: 10px;
+    padding-left: 17px;
+    font-family: "Rubik";
+    font-size: 20px;
+}
+
+.main-text{
+    width: 346px;
+    height: 86px;
+    font-size: 16px;
+    line-height: 1.5;
+    padding-left: 17px;
+    padding-right: 12px;
+    padding-bottom: 15px;
+    font-family: "rubik";
+}
+
+.main-img{
+    width: 359px;
+    height: 165px;
+    padding-right: 17px;
+    padding-bottom: 50px;
+    padding-left: 17px;
+}
+
+.writer-parent{
+    display: flex;
+}
+
+.writer-img{
+    padding-left: 17px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+}
+
+.main-writer{
+    font-family: "rubik";
+}
+
+.kadr-2{
+    width: 393px;
+    margin-top: 50px;
+    border-radius: 15px;
+    background-color: #f6f6f6;
+}
+
+.kadr-3{
+    width: 393px;
+    margin-top: 50px;
+    border-radius: 15px;
+    background-color: #f6f6f6;
+}
+
+.kadr-4{
+    width: 393px;
+    margin-top: 50px;
+    border-radius: 15px;
+    background-color: #f6f6f6;
+}
+
+.kadr-5{
+    width: 393px;
+    margin-top: 50px;
+    border-radius: 15px;
+    background-color: #f6f6f6;
+}
+
+.kadr-6{
+    width: 393px;
+    margin-top: 50px;
+    border-radius: 15px;
+    background-color: #f6f6f6;
 }
