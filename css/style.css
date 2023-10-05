@@ -2,7 +2,7 @@
 
 .container{
     width: 100%;
-    max-width: 1389px;
+    max-width: 1209px;
     padding-left: 20px;
     padding-right: 20px;
     margin-left: auto;
@@ -104,6 +104,12 @@
     margin: 13px 20px 13px 20px;
 }
 
+        /* MAIN */
+
+.main-content{
+    padding-left: 30px;
+}
+
 .sitenav-list{
     list-style-type: none;
     display: flex;
@@ -116,7 +122,7 @@
     font-family: "rubik";
     margin-right: 34px;
     font-size: 16px;
-    color: #7f7f7f
+    color: #7f7f7f;
     text-transform: uppercase;
     text-decoration: none;
     color: #222;
@@ -142,6 +148,7 @@
 
 
 .kadr-1{
+    margin-right: 10px;
     width: 393px;
     margin-top: 50px;
     border-radius: 15px;
@@ -193,6 +200,7 @@
 }
 
 .kadr-2{
+    margin-right: 10px;
     width: 393px;
     margin-top: 50px;
     border-radius: 15px;
@@ -207,6 +215,7 @@
 }
 
 .kadr-4{
+    margin-right: 10px;
     width: 393px;
     margin-top: 50px;
     border-radius: 15px;
@@ -214,6 +223,7 @@
 }
 
 .kadr-5{
+    margin-right: 10px;
     width: 393px;
     margin-top: 50px;
     border-radius: 15px;
